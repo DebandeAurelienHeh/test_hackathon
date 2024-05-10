@@ -7,3 +7,7 @@ class Orelient:
 
 class Sony:
   pass
+
+
+class aurelien_le_plus_Beau:
+  pass
