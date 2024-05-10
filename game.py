@@ -1,3 +1,3 @@
 class game:
-    yo
+    yo yo yo yoyoyoyoyo
   pass
