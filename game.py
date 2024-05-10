@@ -4,3 +4,6 @@ class game:
 
 class Orelient:
   pass
+
+class Sony:
+  pass
