@@ -1,2 +1,3 @@
 class game:
+    yo
   pass
