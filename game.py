@@ -1,3 +1,6 @@
 class game:
-    yo
+    yo 
+  pass
+
+class Orelient:
   pass
