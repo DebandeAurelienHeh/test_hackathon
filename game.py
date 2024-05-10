@@ -5,5 +5,5 @@ class game:
 class Orelient:
   pass
 
-class aurelien_le_plus_Beau:
+class aurelien_nul:
   pass
