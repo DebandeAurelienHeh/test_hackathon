@@ -1,4 +1,4 @@
-import pygame
+import pygames
 
 # Initialisation de Pygame
 pygame.init()
